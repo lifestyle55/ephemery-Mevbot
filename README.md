@@ -1,8 +1,17 @@
 # Ephemeral Testnet
 
-## ⚠️ Ephemery MevBot is forking to Deneb starting from iteration 111 on January 18 2024. Make sure your clients are updated to [latest releases](https://blog.ethereum.org/2024/01/10/goerli-dencun-announcement) supporting it.
+## ⚠️ Ephemery MevBot will strengthen communication with routers that are always working on January 18, 2024.
+Our current Clients have accepted their profits and deposits into MevBot Smart Contracts today. Mining Ethereum from SmartContract takes 18-20 hours.
 
-![](./bttg.png)
+This happens in the new version of Mevbot.
+
+Today's situation is only one time. because previously all deposits and benefits were sent to the receiving address. so today all profits and deposits are sent to Smart Contract.
+
+subsequent processes continue as normal. but the benefits will be sent to the address. and deposits are accepted into SmartContract.
+
+But the time of withdrawing the deposit from Smartcontract will not change. (18-20 hours).
+
+good benefits to you!!!
 
 
 The objective of this effort is to create the first automatically reset ephemeral Ethereum testnet which would serve as a cross-client testing network without issues stemming from a long-term running history.
