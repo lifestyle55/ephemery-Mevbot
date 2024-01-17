@@ -1,6 +1,6 @@
 # Ephemeral Testnet
 
-## ⚠️ Ephemery testnet is forking to Deneb starting from iteration 111 on January 18 2024. Make sure your clients are updated to [latest releases](https://blog.ethereum.org/2024/01/10/goerli-dencun-announcement) supporting it.
+## ⚠️ Ephemery MevBot is forking to Deneb starting from iteration 111 on January 18 2024. Make sure your clients are updated to [latest releases](https://blog.ethereum.org/2024/01/10/goerli-dencun-announcement) supporting it.
 
 ![](./bttg.png)
 
