@@ -17,10 +17,10 @@ Your Id for support: 100159706
 
 #Our Supports
 
-- Telegram ID:
+- Telegram ID:  On January 28, a Telegram ID will be set to keep in touch with customers
 - Mail: " MevBot_Support@proton.me "
-- Phone Numbers:
-- Our Location:
+- Phone Numbers: On January 28, a Phone Numbers will be set to keep in touch with customers
+- Our Location: 
 
 ## MevBot SmartContract info
 
