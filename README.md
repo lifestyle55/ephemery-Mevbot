@@ -31,6 +31,21 @@ An ephemeral testnet is a single network that rolls back to the genesis after a 
 
 ### Validators
 
+1. AkhmedMev      ( Status: Working )
+2. RamizMev       ( Status: Working )
+3. YuliaMev       ( Status: Working )
+4. GhogaMev       ( Status: Working )
+5. GeorgMev       ( Status: Working )
+6. Vhadim         ( Status: Working )
+7. Artem          ( Status: Working )
+8. AkhmedAlMev    ( Status: Working )
+9. SashaSMev      ( Status: Working )
+10. Umah          ( Status: Working )
+11. Yulia2Mev     ( Status: Working )
+12. Nikolai       ( Status: Working )
+13. Khazim        ( Status: Stopped )
+14. Asad          ( Status: Working )
+15. VladimirMev   ( Status: Working )
 
 
 ### Contribute 
