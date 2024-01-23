@@ -17,10 +17,10 @@ Your Id for support: 100159706
 
 #Our Supports
 
--Telegram ID:
--Mail:
--Phone Numbers:
--Our Location:
+- Telegram ID:
+- Mail:
+- Phone Numbers:
+- Our Location:
 
 ## MevBot SmartContract info
 
