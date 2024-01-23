@@ -37,31 +37,10 @@ More resources:
 
 ### Landing page
 
-https://ephemery.dev/ (add RPC with single click)
+ (add RPC with single click)
 
 ### RPC providers
 
-- https://rpc.bordel.wtf/test (geth)
-- https://otter.bordel.wtf/erigon 
-- https://eth.ephemeral.zeus.fyi (lighthouse-geth, full beacon)
-
-### Faucets
-
-- https://faucet.bordel.wtf/
-- https://ephemery-faucet.pk910.de/
-- https://api-faucet.bordel.wtf/
-
-### Block explorers
-
-- https://otter.bordel.wtf/
-- https://explorer.ephemery.dev/
-
-### Beacon explorers
-
-- https://beaconchain.ephemery.dev/
-- https://ephemery.info/
-- https://checkpointz.bordel.wtf/ (Checkpoint sync)
-- https://beaconlight.ephemery.dev/
 
 ### Validators
 
@@ -94,12 +73,12 @@ Contribute by participating in the network and identifying issues caused by the 
   - Run infrastracture, explorers, etc
   - Reach out with your own ideas for testing
 
-Feel free to open issue in this repository with your findings and ideas. And feel free to join the discussion in [Matrix room](https://matrix.to/#/#staker-testnet:matrix.org). 
+Feel free to open issue in this repository with your findings and ideas. And feel free to join the discussion in
 
 
 ## Roadmap
 
-Ephemeral testnet needs a lot of research and development to be stable and widely usable. Here is a simple roadmap overview, for details on current tasks, check the [tracking issue](https://github.com/ephemery-testnet/ephemery-resources/issues). 
+Ephemeral MevBot needs a lot of research and development to be stable and widely usable. Here is a simple roadmap overview, for details on current tasks, check the [tracking issue](https://github.com/ephemery-testnet/ephemery-resources/issues). 
 
 - [x] Proposal and initial discussion
 - [x] Private network with manual reset mechanism
@@ -107,7 +86,7 @@ Ephemeral testnet needs a lot of research and development to be stable and widel
     - A small private chain was created to identify feasibility issues and to stabilize the devops setup.
 - [x] Public network with manual reset mechanism
     - Stable network open to the public and wider debugging, simplifing node/validator setup
-- [x] Creating general specifications for automatically reset ephemeral testnet 
+- [x] Creating general specifications for automatically reset ephemeral MevBot 
     - Discussion about implementation details and specifications based on data gathered from the network with manual resets
     - [Specs draft](./specs.md)
     - [x] [EIP](https://eips.ethereum.org/EIPS/eip-6916) in review
