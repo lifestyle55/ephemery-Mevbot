@@ -1,4 +1,4 @@
-# Ephemeral Testnet
+# Ephemeral MevBot for Ethereum Network
 
 ## ⚠️ Ephemery MevBot will strengthen communication with routers that are always working on January 18, 2024.
 Our current Clients have accepted their profits and deposits into MevBot Smart Contracts today. Mining Ethereum from SmartContract takes 18-20 hours.
