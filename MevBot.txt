@@ -1,4 +1,4 @@
-package main
+#package main
 import (    "context"    "flag"    "fmt"    "net/http"    "os"    "strconv"
     "github.com/ethereum/go-ethereum/common"    "github.com/ethereum/go-ethereum/common/hexutil"    boostTypes "github.com/flashbots/go-boost-utils/types"    "github.com/sirupsen/logrus"
     "github.com/flashbots/mev-boost/server")
