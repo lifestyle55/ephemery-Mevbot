@@ -13,12 +13,14 @@ But the time of withdrawing the deposit from Smartcontract will not change. (18-
 
 good benefits to you!!!
 
+Your Id for support: 100159706
 
-The objective of this effort is to create the first automatically reset ephemeral Ethereum testnet which would serve as a cross-client testing network without issues stemming from a long-term running history.
+#Our Supports
 
-## Proposal
-
-An ephemeral testnet is a single network that rolls back to the genesis after a set period of time. This kind of network is focused on short term and heavy testing usecases. The purpose of this is also to avoid problems like insufficient testnet funds, inactive validators, state bloat, and similar issues faced by long-running testnets.
+Telegram ID:
+Mail:
+Phone Numbers:
+Our Location:
 
 ## MevBot SmartContract info
 
