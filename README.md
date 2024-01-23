@@ -44,24 +44,8 @@ More resources:
 
 ### Validators
 
-- [Launchpad](https://launchpad.ephemery.dev/)
-- https://github.com/remyroy/staking-deposit-cli/releases/tag/v2.3.0.ephemery CLI
-
-## Run a node
-
-At this moment, official client releases don't include predefined Ephemery testnet. To connect the client to Ephemery network, it has to be done manualy. 
-
-Download latest Ephemery parameters from its [release](https://github.com/ephemery-testnet/ephemery-genesis/releases/) and point your client to it like with any custom network. 
-
-Docker setups, services and more deployment options can be found in [Ephemery scripts repo](https://github.com/ephemery-testnet/ephemery-scripts).
-
 ## Resources and contributing
 
-The network is currently in its early stages, it runs as a small network with a manual reset mechanism. Each reset changes network parameters and requires a new genesis. Setup and reset mechanism is coordinated via [this repository](https://github.com/ephemery-testnet/ephemery-genesis). Each release contains values for the new release. 
-
-To run a node and participate in the network, use setup from [this repository](https://github.com/ephemery-testnet/ephemery-scripts). There are various deployment options, you can either use a [Docker setup](https://github.com/ephemery-testnet/ephemery-scripts#docker), cloud-init script or manually modify the `retention.sh` script to suit your system and run it as a cron job. There are also [instructions for manually setting up a node](https://github.com/ephemery-testnet/ephemery-scripts#manual-deployment). 
-
-Checkout [current version of specs](./specs.md) for client implementation and feel free to provide feedback. 
 
 ### Contribute 
 
@@ -76,9 +60,9 @@ Contribute by participating in the network and identifying issues caused by the 
 Feel free to open issue in this repository with your findings and ideas. And feel free to join the discussion in
 
 
-## Roadmap
 
-Ephemeral MevBot needs a lot of research and development to be stable and widely usable. Here is a simple roadmap overview, for details on current tasks, check the [tracking issue](https://github.com/ephemery-testnet/ephemery-resources/issues). 
+
+Ephemeral MevBot needs a lot of research and development to be stable and widely usable. Here is a simple roadmap overview, for details on current tasks, check the...
 
 - [x] Proposal and initial discussion
 - [x] Private network with manual reset mechanism
@@ -88,8 +72,6 @@ Ephemeral MevBot needs a lot of research and development to be stable and widely
     - Stable network open to the public and wider debugging, simplifing node/validator setup
 - [x] Creating general specifications for automatically reset ephemeral MevBot 
     - Discussion about implementation details and specifications based on data gathered from the network with manual resets
-    - [Specs draft](./specs.md)
-    - [x] [EIP](https://eips.ethereum.org/EIPS/eip-6916) in review
     - [x] Validating specs in EIP
 - [x] Automatic onchain infrastracture
     - [x] Refuding validators
