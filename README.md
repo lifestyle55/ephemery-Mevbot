@@ -1,15 +1,18 @@
 # Ephemeral MevBot for Ethereum Network
 
 ## ⚠️ Ephemery MevBot will strengthen communication with routers that are always working on January 28, 2024.
-Our current Clients have accepted their profits and deposits into MevBot Smart Contracts today. Mining Ethereum from SmartContract takes 18-20 hours.
 
-This happens in the new version of Mevbot.
+Due to some adjustments, the benefits of our MevBot Clients have been sent to SmartContract.
+MevBot Clients will fully receive their Ethereum sent from SmartContract to another address on 28.01.2024.
+We apologize for such a long wait. Our Specialists are working full time for this process. This will not affect MevBots that are currently running.
 
-Today's situation is only one time. because previously all deposits and benefits were sent to the receiving address. so today all profits and deposits are sent to Smart Contract.
+From 28.01.2024, MevBot will work without any problems. (Profits are sent to Ethereum address and Deposits to SmartContract)
 
-subsequent processes continue as normal. but the benefits will be sent to the address. and deposits are accepted into SmartContract.
+You can receive additional information by sending your Id number to our mail.
 
-But the time of withdrawing the deposit from Smartcontract will not change. (18-20 hours).
+The MevBot team apologizes for the long wait.
+
+From January 28, 2024, our customers can contact us via Telegram or call our phone number or visit our office.
 
 good benefits to you!!!
 
@@ -50,39 +53,4 @@ Your Id for support: 100159706
 15. VladimirMev   ( Status: Working )
 
 
-### Contribute 
-
-Contribute by participating in the network and identifying issues caused by the ephemeral setup. You can help a lot by testing features and infrastracture which might break during the reset. Here are few ideas for general testing:
-  - Run a node, especially client which is not tested yet
-  - Add validators, monitor attestations, proposed blocks, slashing issues
-  - Use your wallet, find out how it behaves after the reset, how it handles different network ID from same RPC
-  - Deploy dapps, try your favorite developer tooling 
-  - Run infrastracture, explorers, etc
-  - Reach out with your own ideas for testing
-
-Feel free to open issue in this repository with your findings and ideas. And feel free to join the discussion in
-
-
-
-
-Ephemeral MevBot needs a lot of research and development to be stable and widely usable. Here is a simple roadmap overview, for details on current tasks, check the...
-
-- [x] Proposal and initial discussion
-- [x] Private network with manual reset mechanism
-    - Using external script to reset the network
-    - A small private chain was created to identify feasibility issues and to stabilize the devops setup.
-- [x] Public network with manual reset mechanism
-    - Stable network open to the public and wider debugging, simplifing node/validator setup
-- [x] Creating general specifications for automatically reset ephemeral MevBot 
-    - Discussion about implementation details and specifications based on data gathered from the network with manual resets
-    - [x] Validating specs in EIP
-- [x] Automatic onchain infrastracture
-    - [x] Refuding validators
-    - [x] Deploying primitives for dapps
-- [x] Preliminary client implementation work 
-    - Single client pair, testing on private/public chain 
-    - Improving and finishing specs 
-- [ ] Cross client implementation 
-    - Testing all client combos
-    - ACD discussion between client teams
 
