@@ -20,13 +20,7 @@ The objective of this effort is to create the first automatically reset ephemera
 
 An ephemeral testnet is a single network that rolls back to the genesis after a set period of time. This kind of network is focused on short term and heavy testing usecases. The purpose of this is also to avoid problems like insufficient testnet funds, inactive validators, state bloat, and similar issues faced by long-running testnets.
 
-More resources: 
-- [original proposal](https://notes.ethereum.org/@mario-havel/stakers-testnet)
-- [specification](/specs.md)
-- [EthPrague talk](https://www.youtube.com/watch?v=HUuR1k25-3g)
-- [Blog article](https://medium.com/coinmonks/new-testing-environment-for-ethereum-stakers-e271d1f954eb)
-
-## Meta, network info
+## MevBot SmartContract info
 
 |                  | Current value       |
 | ---------------- | ------------------- |
@@ -35,16 +29,8 @@ More resources:
 | Rollback period  | 7 days              |
 | Next rollback    | ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fephemery.dev%2FlatestInfo.php&query=%24.resetTimeReadable&label=%20&color=gray) |
 
-### Landing page
-
- (add RPC with single click)
-
-### RPC providers
-
-
 ### Validators
 
-## Resources and contributing
 
 
 ### Contribute 
