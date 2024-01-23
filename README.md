@@ -20,7 +20,7 @@ Your Id for support: 100159706
 
 #Our Supports
 
-- Telegram ID:  On January 28, a Telegram ID will be set to keep in touch with customers
+- Telegram ID: @MevBot_Ethereum
 - Mail: " MevBot_Support@proton.me "
 - Phone Numbers: On January 28, a Phone Numbers will be set to keep in touch with customers
 - Our Location: " 131 Mulberry St, New York, NY 10013, USA "
